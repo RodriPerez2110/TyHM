@@ -1,0 +1,52 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.3) (preloaded format=latex 2021.4.6)  7 APR 2021 18:29
+entering extended mode
+**"c:/Users/rodri/3D Objects/3_Máquinas y Herramientas Modernas/APRENDIENDO LATEX/Entrega antes de 3 de Mayo/CV_Ejemplo/emiliano_CV.tex"
+(c:/Users/rodri/3D Objects/3_Máquinas y Herramientas Modernas/APRENDIENDO LATEX/Entrega antes de 3 de Mayo/CV_Ejemplo/emiliano_CV.tex
+LaTeX2e <2020-10-01> patch level 4
+L3 programming layer <2021-02-18> (altacv.cls
+Document Class: altacv 2020/05/17 AltaCV v1.3.2, yet another alternative class for a resume/curriculum vitae.
+(C:\Users\rodri\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
+(C:\Users\rodri\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
+File: size10.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+)
+\c@part=\count179
+\c@section=\count180
+\c@subsection=\count181
+\c@subsubsection=\count182
+\c@paragraph=\count183
+\c@subparagraph=\count184
+\c@figure=\count185
+\c@table=\count186
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+) (C:\Users\rodri\AppData\Local\Programs\MiKTeX\tex/latex/pdfx\pdfx.sty
+Package: pdfx 2019/02/27 v1.6.3 PDF/X and PDF/A support (CVR/HTH/RRM/PS)
+\pdfx@minorversion=\count187
+ (C:\Users\rodri\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+) (C:\Users\rodri\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifpdf.sty
+Package: ifpdf 2019/10/25 v3.4 ifpdf legacy package. Use iftex instead.
+) (C:\Users\rodri\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifxetex.sty
+Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
+) (C:\Users\rodri\AppData\Local\Programs\MiKTeX\tex/latex/base\everyshi-ltx.sty
+Package: everyshi-ltx 2020/08/17 v1.0a Emulation of the original everyshi package
+with kernel methods
+) (C:\Users\rodri\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifluatex.sty
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+)
+! pdfTeX error (\pdfmapline): not allowed in DVI mode (\pdfoutput <= 0).
+l.532    \pdfmapline
+                    {+dummy-space <dummy-space.pfb}
+
+ 
+Here is how much of TeX's memory you used:
+ 506 strings out of 479322
+ 7417 string characters out of 2856610
+ 290670 words of memory out of 3000000
+ 18039 multiletter control sequences out of 15000+600000
+ 403430 words of font info for 27 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 72i,0n,77p,299b,36s stack positions out of 5000i,500n,10000p,200000b,80000s
+No pages of output.
